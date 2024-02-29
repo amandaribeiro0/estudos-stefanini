@@ -23,3 +23,14 @@ Os pipelines de dados modernos tornam a extração de informações dos dados co
       - Recursos isolados  e independentes para processamento de dados
       - Acesso democratizado a dados e gerenciamento de autoatendimento
       - Alta disponibilidade e recuperação de desastres
+  
+- <b> Composição de uma pipeline </b>
+    - Origem: A maior parte das pipwlines puxa dados brutos de múltiplas fontes;
+    - Destino: Os dados podem ser direcionados para um storage, ou diretamente para uma aplicação;
+    - Transformação: Operações que modificam os dados, incluindo padronização, ordenação, duplicação, validação ou verificação. Todas as transformações necessárias para deixar os dados "limpos" e prontos para análise;
+    - Dataflow: Movimento dos dados da origem até o destino, incluindo as transformações que serão aplicadas sobre eles e silos de dados pelos quais vão passar. Uma das abordagens possíveis para esse fluxo é a ETL;
+            ETL: extract, transform, load.
+    - Processamento: Apesar de ser relacionado com o Dataflow, o processamento pode variar de acordo com o volume de dados e a velocidade com que se pretende processar os mesmos;
+    - Storage: Compartimentos quais os dados serão armazenados ao longo da pipeline. O tipo de storage depende de alguns fatores como volume de dados, tipos de dados, frequência de query, etc;
+    - Workflow: Se refere ao sequenciamento de dependências dos processos. Gerenciar o agendamento, execução, distribuição e outras relações durante a pipeline. Entra no workflow os conceitos de upstream e downstream jobs;
+    - Monitoramento: Pipelines precisam ser monitoradas de perto para garantir a integridade dos dados.
