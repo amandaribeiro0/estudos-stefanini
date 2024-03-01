@@ -29,8 +29,24 @@ Os pipelines de dados modernos tornam a extração de informações dos dados co
     - Destino: Os dados podem ser direcionados para um storage, ou diretamente para uma aplicação;
     - Transformação: Operações que modificam os dados, incluindo padronização, ordenação, duplicação, validação ou verificação. Todas as transformações necessárias para deixar os dados "limpos" e prontos para análise;
     - Dataflow: Movimento dos dados da origem até o destino, incluindo as transformações que serão aplicadas sobre eles e silos de dados pelos quais vão passar. Uma das abordagens possíveis para esse fluxo é a ETL;
-            ETL: extract, transform, load.
+              ETL: extract, transform, load.
     - Processamento: Apesar de ser relacionado com o Dataflow, o processamento pode variar de acordo com o volume de dados e a velocidade com que se pretende processar os mesmos;
     - Storage: Compartimentos quais os dados serão armazenados ao longo da pipeline. O tipo de storage depende de alguns fatores como volume de dados, tipos de dados, frequência de query, etc;
     - Workflow: Se refere ao sequenciamento de dependências dos processos. Gerenciar o agendamento, execução, distribuição e outras relações durante a pipeline. Entra no workflow os conceitos de upstream e downstream jobs;
     - Monitoramento: Pipelines precisam ser monitoradas de perto para garantir a integridade dos dados.
+
+
+#### ETL 
+Extração, Transformação e Carga. 
+É um processo utilizado para transferir dados de diferentes fontes, convertê-los em um formato adequado e carregá-los em um sistema de destino. O objetido do ETL é fornecer dados de qualidade prontos para análise.
+
+Cada etapa de ETL:
+
+- <b> Extração </b>
+Essa etapa envolve a obtenção de dados de diversas fontes. Essa etapa pode ser complexa pois os dados podem estar armazenados em diferentes sistemas, com estruturas diferentes e até mesmo em formatos não estruturados.
+
+- <b> Transformação </b>
+Após os dados serem extraídos, é preciso transformalos em um formato e estrutura consistentes. Isso pode incluir a limpeza dos dados,  a padrozinação de valores a normalização dos dados, aplicação de regra de negócio e etc. A etapa da transformação garante que os dados estejam coerentes e prontos para uma análise.
+
+- <b> Carga </b>
+Etapa final do processo de ETL, é a carga dos dados transformados em um sistema de destino. Pode ser realizada de maneira incremental, ou de maneira completa. Pode envolver a criação de estruturas necessárias para a análise de dados.
