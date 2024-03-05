@@ -1,4 +1,4 @@
-G# Trilha de Desenvolvimento
+# Trilha de Desenvolvimento
 
 ## Engenharia de Dados
 
