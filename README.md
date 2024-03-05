@@ -1,4 +1,4 @@
-# Trilha de Desenvolvimento
+G# Trilha de Desenvolvimento
 
 ## Engenharia de Dados
 
@@ -33,6 +33,19 @@
 - [Instalar e configurar o Visual Studio Code para o desenvolvimento do Python](https://learn.microsoft.com/pt-br/training/modules/python-install-vscode/)
 - [Colaborar com outras pessoas usando as páginas do Markdown e GitHub](https://learn.microsoft.com/pt-br/training/paths/collaborate-markdown-github-pages/)
 
+
+## Visualização de Dados
+
+- [Descrever as funcionalidades do Microsoft Power BI](https://learn.microsoft.com/pt-br/training/modules/introduction-power-bi/)
+- [Criar e compartilhar seu primeiro relatório do Power BI](https://learn.microsoft.com/pt-br/training/modules/build-your-first-power-bi-report/)
+- [Criar relatórios efetivos no Power BI](https://learn.microsoft.com/pt-br/training/paths/power-bi-effective/)
+- [Explorar dados no Power BI](https://learn.microsoft.com/pt-br/training/modules/explore-data-power-bi/)
+- [Modelar dados no Power BI](https://learn.microsoft.com/pt-br/training/modules/model-data-power-bi/)
+
 ## Agilidade
 
 - [Certificação Gratuita Registered Scrum Basic™](https://www.aprendascrum.com.br/)
+
+## Projeto Final
+
+- Criação de uma projeto ETL simples com python e pandas.
