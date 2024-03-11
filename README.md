@@ -22,16 +22,16 @@
 
 ## Git
 
-- [Introdução ao controle de versão com o Git](https://learn.microsoft.com/pt-br/training/modules/intro-to-git/)
-- [Como criar e modificar um projeto Git](https://learn.microsoft.com/pt-br/training/modules/create-git-project/)
-- [Colaborar com o Git](https://learn.microsoft.com/pt-br/training/modules/collaborate-with-git/)
+- [~~Introdução ao controle de versão com o Git~~](https://learn.microsoft.com/pt-br/training/modules/intro-to-git/)
+- [~~Como criar e modificar um projeto Git~~](https://learn.microsoft.com/pt-br/training/modules/create-git-project/)
+- [~~Colaborar com o Git~~](https://learn.microsoft.com/pt-br/training/modules/collaborate-with-git/)
 - [Editar código por meio de branches e mesclagem no Git](https://learn.microsoft.com/pt-br/training/modules/branch-merge-git/)
 
 ## Operacional e Produtividade
 
-- [Introdução ao Subsistema do Windows para Linux (WSL)](https://learn.microsoft.com/pt-br/training/modules/wsl-introduction/)
+- [~~Introdução ao Subsistema do Windows para Linux (WSL)~~](https://learn.microsoft.com/pt-br/training/modules/wsl-introduction/)
 - [Instalar e configurar o Visual Studio Code para o desenvolvimento do Python](https://learn.microsoft.com/pt-br/training/modules/python-install-vscode/)
-- [Colaborar com outras pessoas usando as páginas do Markdown e GitHub](https://learn.microsoft.com/pt-br/training/paths/collaborate-markdown-github-pages/)
+- [~~Colaborar com outras pessoas usando as páginas do Markdown e GitHub~~](https://learn.microsoft.com/pt-br/training/paths/collaborate-markdown-github-pages/)
 
 
 ## Visualização de Dados
@@ -44,7 +44,7 @@
 
 ## Agilidade
 
-- [Certificação Gratuita Registered Scrum Basic™](https://www.aprendascrum.com.br/)
+- [~~Certificação Gratuita Registered Scrum Basic™~~](https://www.aprendascrum.com.br/)
 
 ## Projeto Final
 
