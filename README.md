@@ -8,7 +8,7 @@
   
   OU
 
-- [Workover - Big Data](https://workover.com.br/cursos/61/big-data)
+- [~~Workover - Big Data~~](https://workover.com.br/cursos/61/big-data)
 
 ## SQL
 
