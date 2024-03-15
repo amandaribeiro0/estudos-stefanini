@@ -50,3 +50,12 @@ Após os dados serem extraídos, é preciso transformalos em um formato e estrut
 
 - <b> Carga </b>
 Etapa final do processo de ETL, é a carga dos dados transformados em um sistema de destino. Pode ser realizada de maneira incremental, ou de maneira completa. Pode envolver a criação de estruturas necessárias para a análise de dados.
+
+#### Cilclo de vida da engenharia de dados
+
+Fontes de dados -> Armazenamento (Ingestão de dados -> Transformação e enriquecimento -> Carga e uso de dados) -> Analytics, ML, IA, Dashboards e etc
+
+#### CI - CD
+ CI/CD (integração contínua e entrega contínua) é uma abordagem de desenvolvimento de  software  em  que  todos  os  desenvolvedores  trabalham  juntos  em  um  repositório compartilhado de códigoe, à medida que as alterações são feitas, há um processo de build automatizado  para  detectar  problemas  de  código.  O  resultado  é  um  ciclo  de  vida  de desenvolvimento mais rápido e uma taxa de erro menor.
+
+Um pipeline de CI/CD combina criação, teste e implantação de código em um processo contínuo,  garantindo  que  todas  as  alterações  no  código  do repositório principal  possam  ser liberadas para produção. Um pipeline automatizado de CI/CD evita erros manuais, fornece loops de feedback padronizados para desenvolvedores e permite iterações rápidas de software
